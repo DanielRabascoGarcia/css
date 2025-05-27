@@ -1,3 +1,5 @@
 .scoreBarContainer {
-    display: none  ;
+    .cogLogSvg{
+        opacity: 0;
+    }
 }
